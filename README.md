@@ -1,6 +1,6 @@
 # 20201218_IH_DAFT_final_project
 
-### "Factors influencing life expectancy in countries"
+### "Life expectancy inequality around the globe and factors influencing it"
 
 ### 1.	Initial project scope
 
